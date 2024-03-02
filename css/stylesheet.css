@@ -4,15 +4,3 @@
     justify-content: center; /* Center items horizontally */
     text-align: center;
 }
-
-.aboutContent {
-    display: flex;
-    align-items: center; /* Center items vertically */
-    justify-content: center; /* Center items horizontally */
-    margin-top: 20px; /* Adjust as needed */
-}
-
-.aboutContent img {
-    max-width: 100px; /* Adjust width of image */
-    margin-right: 20px; /* Adjust spacing between image and text */
-}
